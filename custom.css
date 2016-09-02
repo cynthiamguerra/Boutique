@@ -1,0 +1,50 @@
+#the-slider img{
+  width:100%;
+}
+
+.carousel-indicators li {
+  border: 2px solid #cccccc;
+}
+
+#the-slider{
+border: 2px solid blue;
+}
+
+@media (min-width: 1200px){
+
+.love {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+}
+@media (min-width: 992px){
+
+.love {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+}
+
+@media (min-width: 750px){
+
+.love {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+}
+
+
+
+.navbar{
+  background-color: #282828;
+}
+.navbar-default .navbar-nav>li>a{
+  color:#fff;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  color:#ccc;
+}
